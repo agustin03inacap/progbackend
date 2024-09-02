@@ -5,6 +5,7 @@ import sys
 
 
 def main():
+    print("wooooooooooo")
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'projbackend.settings')
     try:
